@@ -1,4 +1,4 @@
 class Hello{
 	int i = 0;
-	int b = 10;
+	int b = 200;
 }
